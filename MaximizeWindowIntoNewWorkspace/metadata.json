@@ -7,8 +7,12 @@
     "github": "kyledross"
   },
   "shell-version": [
+    "46",
+    "47",
+    "48",
     "49",
-    "50"
+    "50",
+    "51"
   ],
   "version": 1
 }
